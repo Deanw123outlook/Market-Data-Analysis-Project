@@ -6,4 +6,4 @@ Fortune500 Dataset also available for download!
 
 CODERS SEE BELOW !
 
-An interesting approach utilized is building a small scale dataframe similar to Fortune 500 to experiment and help solve some tasks. This can be found at the bottom of the Jupyter Notebook along with some INTERESTING Seaborn visualization functions that could not be applied to this data however can be easily applied to other datasets !
+An interesting approach utilized is building a small scale dataframe similar to Fortune 500 to experiment and help solve some tasks. This can be found at the bottom of the Jupyter Notebook along with some INTERESTING Seaborn visualization functions that could not be urilized on this data however can be easily utilized on other datasets !
